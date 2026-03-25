@@ -46,9 +46,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+<img width="932" height="515" alt="image" src="https://github.com/user-attachments/assets/3e56a362-50aa-4cc5-8707-e67b3dfaca95" />
+<img width="935" height="404" alt="image" src="https://github.com/user-attachments/assets/a65410a9-1cca-4780-8faa-8dd256d0f06f" />
 
-### Name:
-### Register Number:
+### Name:VAISHNAVI.D
+### Register Number:212224220118
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
