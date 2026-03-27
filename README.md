@@ -46,8 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-<img width="932" height="515" alt="image" src="https://github.com/user-attachments/assets/3e56a362-50aa-4cc5-8707-e67b3dfaca95" />
-<img width="935" height="404" alt="image" src="https://github.com/user-attachments/assets/a65410a9-1cca-4780-8faa-8dd256d0f06f" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b4606cd7-f84d-4f49-b7e1-5e6ce7d0dd7b" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ef65ff03-a36e-40f1-8692-7d260cf50a32" />
+
 
 ### Name:VAISHNAVI.D
 ### Register Number:212224220118
